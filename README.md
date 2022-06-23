@@ -1,4 +1,4 @@
-# Developer Coding Challenge
+# QA Testing Challenge
 As the next step in the hiring process, we’d like you to complete a testing challenge.
 
 ## The Project
