@@ -3,11 +3,13 @@ As the next step in the hiring process, we’d like you to complete a testing ch
 
 ## The Project
 
-Your task is to create test cases for Twala Sign (Staging Environment) regarding the following processes:
+Your task is to create test cases for [Twala Sign (Staging Environment)](sign-staging](https://sign-staging.twala.io) regarding the following processes:
 
 * Registration
 * Login
 * Document Signing
+
+Basic Auth credentials will be sent to you on a separate email.
 
 ## Requirements
 
