@@ -58,7 +58,7 @@ Same result = Pass
 Different results = Fail
 
 ## Additional Information
-* You are free to use any test case template or standard you are most familiar with.
+* You are free to use any test case template you are most familiar with.
 * Have fun and be as creative as you like!
 * Please feel free to reach out to ask any questions.
 
