@@ -52,7 +52,7 @@ Different results = Fail
 ## How to Submit This Challenge
 1. Work on your solution.
 2. **If you are applying for a mid-level or senior-level role,** aside from creating the test cases, you are required to create automation tests on the same three processes. You can use any framework of your choice.
-3. Send us an email at charlie.coroza@twala.io and CC paul.twala.io and stephanie.amurao@twala.io when you're ready to have it reviewed and proceed with the tech interview.
+3. Send us an email at charlie.coroza@twala.io and CC paul.twala.io and stephanie.amurao@twala.io when you're ready to have it reviewed and schedule the tech interview.
 
 ## Timeframe
 
